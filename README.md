@@ -3,6 +3,8 @@
 60行代码实现多线程PDF转Word
 
 ## 使用方法
+'''3python2
+'''
 
 * clone或下载项目到本地
 ```python
@@ -20,12 +22,6 @@ pip install -r requirements.txt
 
 * 修改config.cfg文件，指定存放pdf和word文件的文件夹，以及同时工作的进程数
 * 执行```python main.py```
-
-**欢迎Star**
-
-## Python私房菜
-
-![](http://ww1.sinaimg.cn/large/6ae0adaely1foxc0cfkjsj2076076aac.jpg)
 
 ## License
 
